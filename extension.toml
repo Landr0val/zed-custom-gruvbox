@@ -1,0 +1,19 @@
+id = "my-gruvbox"
+name = "My Gruvbox"
+version = "0.1.1"
+schema_version = 1
+description = "🌊 Zed modification of Gruvbox theme 🐉"
+repository = "https://github.com/ethangilmore/zed-kanagawa"
+authors = ["Ethan Gilmore <ethanmckgilmore@gmail.com>", "Yair Chan <enyaoficial001@gmail.com"]
+themes = ["themes/MyGruvbox.json"]
+languages = []
+
+[lib]
+
+[grammars]
+
+[language_servers]
+
+[slash_commands]
+
+[indexed_docs_providers]
