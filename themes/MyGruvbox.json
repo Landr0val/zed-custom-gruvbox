@@ -111,7 +111,7 @@
         "modified.background": "#c18f41d3",
         "modified.border": "#444343",
 
-        "predictive": "#d3869b",
+        "predictive": "#4b4c53",
         "predictive.background": "#ab6c7dd3",
         "predictive.border": "#444343",
 
@@ -265,12 +265,12 @@
             "font_weight": null
           },
           "predictive": {
-            "color": "#d3869b",
+            "color": "#4b4c53",
             "font_style": "italic",
             "font_weight": null
           },
           "preproc": {
-            "color": "#d4be98",
+            "color": "#4b4c53",
             "font_style": null,
             "font_weight": null
           },
